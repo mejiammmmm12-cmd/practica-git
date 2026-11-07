@@ -1,0 +1,4 @@
+Mis tareas de git
+1.aprender git
+2.crear repositorios.
+3.aprender github
